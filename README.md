@@ -47,7 +47,7 @@ The server will start and you can go to http://localhost:3000/ to run this appli
 <br/><br/>
 
 ## Contributor:
-Inna Sherstnyova
+Inna Sherstnyova<br/>
 Starter code was provided in my course materials.
 <br/><br/>
 
